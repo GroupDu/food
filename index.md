@@ -2,9 +2,12 @@
 
 ### For public
 
-| Location | Class    | Good   | Neutral | Bad |
-| -------- | -------- | ------ | ------- | --- |
-| LG1      | 大厨小菜 | 三送饭 |         |     |
+| Location | Class | Good                       | Neutral | Bad |
+| -------- | ----- | -------------------------- | ------- | --- |
+| LG1      | Salon | 古早蛋糕                   |         |     |
+| LG7      | Salon | 古早蛋糕                   |         |     |
+| Seafront |       | 河粉, 牛筋, 泡菜饺子, 素鸡 |         |     |
+| 南北小厨 |       | 汤羹类, 红油抄手           |         |     |
 
 ### For myself
 
